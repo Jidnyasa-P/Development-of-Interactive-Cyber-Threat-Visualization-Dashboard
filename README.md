@@ -39,3 +39,7 @@ vulnerability analysis.
 
 ● Module 4: Dashboard Integration and Finalization: Integrate all visualizations into a
 single, responsive Plotly/Dash application and add interactive filtering capabilities.
+
+## Architecture Diagram 
+<img width="683" height="946" alt="Architecture_Diagram" src="https://github.com/user-attachments/assets/0a5c33d1-0e9b-4350-b2c4-c93729017cca" />
+
